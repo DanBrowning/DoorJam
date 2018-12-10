@@ -8,6 +8,11 @@ TagManager:
   - Door
   - Forcefield
   - Computer
+  - Deathbox
+  - Rocket Launcher
+  - Platform
+  - Rocket
+  - Crossing
   layers:
   - Default
   - TransparentFX
